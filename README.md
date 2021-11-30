@@ -1,5 +1,10 @@
-### Hi there 👋
+<div align='center'>
+  <h1 > Hey 👋, I'm Josh </h1>
+  <hr>
+<h2 align='center'>Web Developer | Teacher | Student </h2>
+<h3>currently residing in Portland, Oregon </h3>
 
+</div>
 <!--
 **jhell85/jhell85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
