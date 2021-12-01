@@ -1,27 +1,14 @@
-<style>
-  .blah{
-    display: flex
-    justify-content: space-around
-  }
-  .code-guild{
-    color: #F37024 !important
-  }
-  .portfolio{
-    color : #63B24E !important
-  }
-
-</style>
-
 <div align='center'>
   <h1 > Hey <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="30px"> I'm Josh </h1>
   <h2 align='center'>Web Developer | Teacher | Student </h2>
   <br>
   <h3>I'm residing amongst the 🌲 trees 🌲 in the beautiful Pacific Northwest of the United States </h3>
   <h4>Currently I'm a freelance developer and helping others learn how to program and put together web apps @ the <a class="code-guild"
+  style="color: #F37024 !important"
    href="https://www.pdxcodeguild.com">PDX Code Guild</a></h4>
   
   <h4>
-Visit my <a class="portfolio" href="https://josh-hellman.netlify.app/">Portfolio</a> to checkout some of my work <br><br> connect with me on 
+Visit my <a style="color: #63B24E !important" class="portfolio" href="https://josh-hellman.netlify.app/">Portfolio</a> to checkout some of my work <br><br> connect with me on 
  <a href="https://www.linkedin.com/in/joshuahellman/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp;
@@ -29,7 +16,7 @@ Visit my <a class="portfolio" href="https://josh-hellman.netlify.app/">Portfolio
   <br>
   <br>
 <h2> &#x1f4c8; GitHub Stats </h2>
-
+<div style="display: flex; align-items: stretch" >
   <img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhell85&theme=dark&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jhell85&theme=dark&show_icons=true&hide_title=true" />
 </div>
